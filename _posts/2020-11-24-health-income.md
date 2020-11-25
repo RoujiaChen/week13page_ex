@@ -12,6 +12,6 @@ toc_sticky: true
 
 ## Altair Example: Gapminder
 
-Below is a chart of the incidence of measles since 1928 for the 50 US states.
+Below is a chart of the health/income and population of countries in the world.
 
 <div id="altair-chart-health_income"></div>
