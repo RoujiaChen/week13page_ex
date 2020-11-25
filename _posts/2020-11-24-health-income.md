@@ -14,4 +14,4 @@ toc_sticky: true
 
 Below is a chart of the health/income and population of countries in the world.
 
-<div id="altair-chart-health_income.json"></div>
+<div id="altair-chart-1-health_income.json"></div>
